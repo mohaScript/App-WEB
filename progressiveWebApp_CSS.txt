@@ -1,0 +1,17 @@
+.sbr{
+    box-shadow: 0px 0px 5px green;
+}
+img{
+    width: 100%;
+}
+.header{
+    width: 100%;
+    box-shadow: 0px 0px 15px black;
+}
+td{
+    font-size: 100%;
+    color: aliceblue;
+}
+.mtb{
+    margin: 15ch 0ch;
+}
